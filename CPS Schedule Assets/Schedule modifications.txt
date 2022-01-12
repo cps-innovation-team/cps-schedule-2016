@@ -1,0 +1,14 @@
+Readme
+
+Add the following as a key-value pair in the top-level dictionary, before the final }, as follows:
+    "DDMMYYYY": ["WN", [{"start": "HHMMSS", "end": "HHMMSS", "name": "NAME"}]]
+
+for example, this is what was added by hand to College_Prep_JSON.txt by hand before uploading the file to iCloud
+    "18122018" : ["T2", [{"start": "080500", "end": "151500", "name": "Finals"}]],
+    "19122018" : ["W2", [{"start": "080500", "end": "151500", "name": "Finals"}]],
+    "20122018" : ["R2", [{"start": "080500", "end": "151500", "name": "Finals"}]],
+    "21122018" : ["F2", [{"start": "080500", "end": "151500", "name": "Finals"}]],
+
+
+
+MODIFICATIONS:
